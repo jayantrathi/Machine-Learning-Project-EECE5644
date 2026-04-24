@@ -14,7 +14,7 @@ The goal is to understand how scheduling and environmental factors contribute to
 
 - **Flight Data:** BTS On-Time Performance Data (2019 Q1)  
 - **Weather Data:** Iowa State Environmental Mesonet (around top 20 airports)
-   Datasets not included in this github (too large to do so)
+- Datasets not included in this github (too large to do so)
 - **Integration:** Data merged using airport location and timestamp (converted to UTC)
 
 ---
